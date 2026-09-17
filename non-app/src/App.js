@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import Movie from './pages/Movie';
 import About from './pages/About';
 import MovieDetail from './pages/MovieDetail';
+import MovieCard from './components/MovieCard';
 import NotFound from './pages/NotFound';
 
 function App() {
